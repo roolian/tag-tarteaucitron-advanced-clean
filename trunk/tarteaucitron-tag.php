@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Tag TarteAuCitron Advanced
  * Description:       Ajoute, après paramétrage, le tag d'activation du service tarteaucitron. Compatbile avec Polylang
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            Daeris
  * Author URI:        daeris.fr
  * License:           GPL-2.0+
@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'TARTEAUCITRON_TAG_VERSION', '1.0.0' );
+define( 'TARTEAUCITRON_TAG_VERSION', '1.0.2' );
 
 /**
  * The core plugin class that is used to define internationalization,
